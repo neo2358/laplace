@@ -18,15 +18,6 @@ $$
 cal_function(@(X,Y)(X.^2-Y.^2))
 ```
 
-![x^2-y^2](C:\Users\Administrator\Desktop\laplace\新建文件夹 (2)\x^2-y^2.png)
-
-计算$f=x^2-y^2$误差图
-
-![e^xsiny](C:\Users\Administrator\Desktop\laplace\新建文件夹 (2)\e^xsiny.png)
-
-计算$g=e^xsiny$误差图
-
-使用fmm计算积分方程在距离边界稍远处快速收敛到机器精度，不过在边界附近的误差较大，这是由于积分节点有奇性。
 
 
 
